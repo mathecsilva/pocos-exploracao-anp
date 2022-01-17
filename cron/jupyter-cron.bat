@@ -1,0 +1,1 @@
+start /B "C:\Windows\SysWOW64\cscript.exe" "C:\Users\matheus.candido\Projects\pocos-exploracao-anp\cron\jupyter-cron.vbs"
