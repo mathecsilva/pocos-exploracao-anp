@@ -4,7 +4,7 @@ Esse projeto foi desenvolvido para Trabalho de Conclusão de Curso e possibilita
 
 ### 1. Jupyter Notebook e Pandas
 
-Base de programação em Jupyter Notebook.(https://jupyter.org/) e biblioteca Python Pandas (https://pandas.pydata.org/).
+Base de programação em Jupyter Notebook (https://jupyter.org/) e biblioteca Python Pandas (https://pandas.pydata.org/).
 
 ### 2. Files
 
